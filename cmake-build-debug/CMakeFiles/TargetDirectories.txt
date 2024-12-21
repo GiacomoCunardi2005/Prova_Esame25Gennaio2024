@@ -1,0 +1,3 @@
+C:/Users/Giacomo Cunardi/CLionProjects/Prova_Esame25Gennaio2024/cmake-build-debug/CMakeFiles/Prova_Esame25Gennaio2024.dir
+C:/Users/Giacomo Cunardi/CLionProjects/Prova_Esame25Gennaio2024/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Giacomo Cunardi/CLionProjects/Prova_Esame25Gennaio2024/cmake-build-debug/CMakeFiles/rebuild_cache.dir
